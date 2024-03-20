@@ -1,16 +1,16 @@
-# ud4_5_hola_mundo
+************************************
+ACERCA DEL AUTOR
+************************************
 
-A new Flutter project.
+David M.
 
-## Getting Started
+elarreglador@protonmail.com
 
-This project is a starting point for a Flutter application.
+https://github.com/elarreglador
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+************************************
+ACERCA DE LA APLICACION
+************************************
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyecto super basico en flutter que al pulsar los botones permite aumentar o disminuir el valor del numero que se muestra en pantalla.
